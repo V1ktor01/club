@@ -24,8 +24,12 @@ border: 18px solid #2c287c;
 margin: 10vw;
 background-color: white;
 text-shadow: 0px -1px 1px #a7a7a7;
-font-size: 90%;
+    font-size: 2.3vw;
 align-items: center;
+}
+iframe{
+    height: 52vw;
+    width: 60vw;
 }
 h1{
   text-align: center;
@@ -37,7 +41,7 @@ li {
     float: left;
 }
 .logos{
-  width: 90%
+  width: 52vw;
 }
 li a {
     display: block;
@@ -54,4 +58,3 @@ li a:hover:not(.active) {
 .active {
     background-color: #d6053c;
 }
- 
